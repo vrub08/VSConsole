@@ -9,6 +9,11 @@ namespace Test22
 
     class Testing { }
 
+    class Fer
+    {
+
+    }
+
     class Program
     {
         static void Main(string[] args)
